@@ -10,7 +10,7 @@ Autori:
 
 [Dokumentácia](attachments/dokumentiacia.pdf)
 
-[Prezentácia](attachments/prezentacia.pdf)
+[Prezentácia](attachments/prezentacia.pptx)
 
 ## Otázka ku skúške 
 
